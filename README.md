@@ -77,3 +77,5 @@ You can also choose different view for achievement (default is *Grid*)
 
 ## Welcome to support me on patreon
 > https://www.patreon.com/ckw1
+
+## I am going to edit this code soon for my demo project for Application Development
